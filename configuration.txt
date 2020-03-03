@@ -1,0 +1,8 @@
+absolute_error 0.1
+relative_error 0.01
+n_stream 1
+x_from -100
+x_to 100
+y_from -100
+y_to 100
+max_iteration -1
